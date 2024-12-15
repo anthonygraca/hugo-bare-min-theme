@@ -72,7 +72,7 @@
 {{ end }}
 
 {{ if .IsPage }}
-    {{ range .Site.Authors }}
+    {{ range .Site.Params.Authors }}
         {{ with .Params.Social.facebook }}
             <meta property="article:author" content="https://www.facebook.com/{{ . }}" />
         {{ end }}
