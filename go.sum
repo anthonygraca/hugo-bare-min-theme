@@ -1,0 +1,6 @@
+github.com/anthonygraca/hugo-debugprint v0.0.0-20241216012944-c576ae79c81c h1:YiLZc6vXEJxZN2KF3F9QxTb0QZe5xVcPJu0sk+Q0zsU=
+github.com/anthonygraca/hugo-debugprint v0.0.0-20241216012944-c576ae79c81c/go.mod h1:OYbVAcdTaLv1DgeQlR804f6xFYKbcQedJa1OlmpZYds=
+github.com/julmot/mark.js v0.0.0-20210820195258-8b57fccf976b/go.mod h1:aAyDyl2EhNPiZbFqqURsAmxYwwTHslrIxZErXMO3pJQ=
+github.com/kaushalmodi/hugo-search-fuse-js v0.4.4 h1:zEnFYi9DYMoHLsMOf5QqXcQJnfEYGaNanqjnTjlJjto=
+github.com/kaushalmodi/hugo-search-fuse-js v0.4.4/go.mod h1:Wr6gbPat+KW6wReh/hDBykKIWn296FsEkuhojJvHHxw=
+github.com/krisk/Fuse v3.2.1+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
